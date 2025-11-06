@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <a href="https://github.com/Ishikawa847">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Ishikawa847" />
+  </a>
+  <a href="https://github.com/Ishikawa847">
+    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/bird_oiseaux">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/bird_oiseaux/posts.svg" />
+  </a>
+  <a href="http://qiita.com/bird_oiseaux">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/bird_oiseaux/contributions.svg" />
+  </a>
+</p>
